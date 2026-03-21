@@ -1,0 +1,26 @@
+# Model binaries (regenerate with: python models/train_model.py)
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (regenerate with: python data/generate_data.py)
+data/sensor_data.csv
+data/machine_metadata.csv

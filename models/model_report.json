@@ -1,0 +1,93 @@
+{
+  "random_forest": {
+    "precision": 0.0422,
+    "recall": 0.7722,
+    "f1_score": 0.0801,
+    "roc_auc": 0.9008,
+    "confusion_matrix": [
+      [
+        36536,
+        6304
+      ],
+      [
+        82,
+        278
+      ]
+    ],
+    "top_features": [
+      [
+        "temperature_roll24_mean",
+        0.15810082532764838
+      ],
+      [
+        "vibration_roll24_mean",
+        0.13619287428594185
+      ],
+      [
+        "rpm_roll24_mean",
+        0.12810461954245791
+      ],
+      [
+        "pressure_roll24_mean",
+        0.11522265943024858
+      ],
+      [
+        "rpm_roll6_mean",
+        0.0653428507481932
+      ],
+      [
+        "pressure_roll6_mean",
+        0.06027459796291375
+      ],
+      [
+        "vibration_roll6_mean",
+        0.05545939210437198
+      ],
+      [
+        "temperature_roll6_mean",
+        0.04261089227285768
+      ],
+      [
+        "rpm",
+        0.039259224169234525
+      ],
+      [
+        "rpm_roll6_std",
+        0.03248672183546003
+      ]
+    ],
+    "n_estimators": 200,
+    "train_samples": 172800,
+    "test_samples": 43200
+  },
+  "isolation_forest": {
+    "recall": 0.0,
+    "precision": 0.0,
+    "contamination": 0.015
+  },
+  "feature_columns": [
+    "temperature",
+    "vibration",
+    "rpm",
+    "pressure",
+    "temperature_roll6_mean",
+    "temperature_roll24_mean",
+    "temperature_roll6_std",
+    "vibration_roll6_mean",
+    "vibration_roll24_mean",
+    "vibration_roll6_std",
+    "rpm_roll6_mean",
+    "rpm_roll24_mean",
+    "rpm_roll6_std",
+    "pressure_roll6_mean",
+    "pressure_roll24_mean",
+    "pressure_roll6_std",
+    "vib_x_temp"
+  ],
+  "base_features": [
+    "temperature",
+    "vibration",
+    "rpm",
+    "pressure"
+  ]
+}

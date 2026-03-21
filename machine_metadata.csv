@@ -1,0 +1,51 @@
+machine_id,machine_type,location,age_years,model
+MCH-001,Hydraulic Press,Floor A – Bay 1,9.0,Model-B328
+MCH-002,Conveyor Belt,Maintenance Hall,1.7,Model-A704
+MCH-003,Packaging Unit,Floor A – Bay 1,0.8,Model-B338
+MCH-004,CNC Lathe,Floor C – Bay 1,2.8,Model-X325
+MCH-005,Drilling Machine,Floor C – Bay 1,3.7,Model-A877
+MCH-006,Conveyor Belt,Maintenance Hall,5.4,Model-C259
+MCH-007,Compressor,Floor B – Bay 1,1.7,Model-X199
+MCH-008,Welding Robot,Floor B – Bay 1,7.4,Model-A847
+MCH-009,Drilling Machine,Floor C – Bay 1,1.9,Model-X180
+MCH-010,Pump Station,Maintenance Hall,7.6,Model-C691
+MCH-011,Compressor,Maintenance Hall,1.3,Model-B891
+MCH-012,Pump Station,Floor A – Bay 1,10.3,Model-A489
+MCH-013,Pump Station,Floor B – Bay 2,7.8,Model-C266
+MCH-014,Welding Robot,Floor B – Bay 1,2.9,Model-C818
+MCH-015,Hydraulic Press,Floor C – Bay 1,7.8,Model-B267
+MCH-016,Drilling Machine,Floor B – Bay 2,3.6,Model-B801
+MCH-017,Welding Robot,Floor A – Bay 1,3.1,Model-A924
+MCH-018,Welding Robot,Floor B – Bay 2,3.6,Model-B680
+MCH-019,Welding Robot,Floor A – Bay 2,8.0,Model-X758
+MCH-020,Drilling Machine,Floor A – Bay 2,3.5,Model-B862
+MCH-021,Pump Station,Maintenance Hall,7.2,Model-X470
+MCH-022,Compressor,Floor A – Bay 2,6.4,Model-A873
+MCH-023,CNC Lathe,Floor A – Bay 1,2.3,Model-B911
+MCH-024,Packaging Unit,Floor C – Bay 1,1.2,Model-X710
+MCH-025,Drilling Machine,Floor C – Bay 1,3.4,Model-A796
+MCH-026,Hydraulic Press,Maintenance Hall,10.7,Model-C887
+MCH-027,Welding Robot,Floor A – Bay 1,3.9,Model-B564
+MCH-028,CNC Lathe,Maintenance Hall,10.6,Model-C612
+MCH-029,Conveyor Belt,Floor C – Bay 1,11.0,Model-C961
+MCH-030,Compressor,Floor A – Bay 2,4.8,Model-B652
+MCH-031,CNC Lathe,Floor C – Bay 1,4.2,Model-A214
+MCH-032,Welding Robot,Floor B – Bay 1,3.3,Model-B999
+MCH-033,Hydraulic Press,Floor A – Bay 1,8.9,Model-A878
+MCH-034,Conveyor Belt,Floor A – Bay 2,8.1,Model-B371
+MCH-035,Packaging Unit,Floor A – Bay 2,11.2,Model-B830
+MCH-036,Pump Station,Floor B – Bay 2,11.9,Model-C548
+MCH-037,Drilling Machine,Floor A – Bay 1,3.4,Model-A446
+MCH-038,CNC Lathe,Floor C – Bay 1,6.9,Model-B107
+MCH-039,Hydraulic Press,Maintenance Hall,7.8,Model-B169
+MCH-040,CNC Lathe,Floor B – Bay 1,1.3,Model-B385
+MCH-041,Drilling Machine,Floor A – Bay 2,6.7,Model-X348
+MCH-042,Drilling Machine,Floor B – Bay 2,2.7,Model-A774
+MCH-043,Packaging Unit,Floor B – Bay 1,5.4,Model-X984
+MCH-044,CNC Lathe,Maintenance Hall,8.0,Model-A162
+MCH-045,Packaging Unit,Maintenance Hall,4.4,Model-A354
+MCH-046,Compressor,Floor A – Bay 2,6.7,Model-B532
+MCH-047,Conveyor Belt,Floor B – Bay 1,5.8,Model-A553
+MCH-048,Hydraulic Press,Floor A – Bay 1,8.0,Model-A195
+MCH-049,Compressor,Floor A – Bay 2,5.2,Model-X318
+MCH-050,Packaging Unit,Floor A – Bay 1,2.4,Model-A499
