@@ -22,7 +22,7 @@
 
 | Fleet Overview | Machine Detail | Model Performance |
 |---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+| ![Fleet](assets/fleet.png) | ![Detail](assets/detail.png) | ![Model](assets/model.png) |
 
 ---
 
