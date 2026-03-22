@@ -1,5 +1,4 @@
 # Model binaries (regenerate with: python models/train_model.py)
-models/*.pkl
 
 # Python cache
 __pycache__/
@@ -22,5 +21,3 @@ env/
 Thumbs.db
 
 # Large data files (regenerate with: python data/generate_data.py)
-data/sensor_data.csv
-data/machine_metadata.csv
