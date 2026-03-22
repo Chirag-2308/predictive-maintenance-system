@@ -23,6 +23,20 @@ from utils.predictor import (
     predict_machine, get_report
 )
 
+import subprocess
+
+def setup_if_needed():
+    import os
+    base      = os.path.dirname(os.path.abspath(__file__))
+    data_path = os.path.join(base, "data", "sensor_data.csv")
+    model_path= os.path.join(base, "models", "rf_model.pkl")
+    if not os.path.exists(data_path):
+        subprocess.run(["python3", os.path.join(base, "data", "generate_data.py")], cwd=base)
+    if not os.path.exists(model_path):
+        subprocess.run(["python3", os.path.join(base, "models", "train_model.py")], cwd=base)
+
+setup_if_needed()
+
 # ─────────────────────────────────────────────
 #  PAGE CONFIG  (must be first Streamlit call)
 # ─────────────────────────────────────────────
