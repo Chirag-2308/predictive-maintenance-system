@@ -219,7 +219,7 @@ systems that can detect anomalies without historical fault labels.
 
 ## 👤 Author
 
-**Chirag Singh Rothan**
+**Chirag Singh Rothan** 
 B.Tech Computer Science Engineering — Parul University, India
 
 
