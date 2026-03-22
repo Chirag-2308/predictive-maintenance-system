@@ -13,7 +13,7 @@
 
 ## 🔗 Live Demo
 
-> **[👉 Open Live Dashboard](https://your-app.streamlit.app)**
+> **[👉 Open Live Dashboard](https://chirag-predictive-maintenance.streamlit.app)**
 > *(deploy to Streamlit Cloud — free, takes 2 minutes)*
 
 ---
