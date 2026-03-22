@@ -219,12 +219,12 @@ systems that can detect anomalies without historical fault labels.
 
 ## 👤 Author
 
-**[Your Full Name]**
-B.Tech Computer Science Engineering — [Parul University], India
-Applying: M.Sc. Computer Science, Hof University of Applied Sciences — Winter Semester 2026
+**[Chirag Singh Rothan]**
+B.Tech Computer Science Engineering — Parul University, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/Chirag-2308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/chirag-singh-rothan-617a48314)
 
 ---
 
