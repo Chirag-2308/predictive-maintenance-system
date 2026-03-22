@@ -219,8 +219,9 @@ systems that can detect anomalies without historical fault labels.
 
 ## 👤 Author
 
-**Chirag Singh Rothan** 
-B.Tech Computer Science Engineering — Parul University, India
+**Chirag Singh Rothan**
+B.Tech Computer Science Engineering
+Parul University, India
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chirag-2308-181717?style=flat&logo=github)](https://github.com/Chirag-2308)
